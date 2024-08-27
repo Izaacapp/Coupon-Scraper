@@ -1,4 +1,3 @@
-Sure! Below is the updated `README.md` template based on your requirements, incorporating the content from the Wired Coupon Automation Tool and your new repository. I’ve included the sections you requested, with the image and new links to your repository.
 
 ```markdown
 <a name="readme-top"></a>
