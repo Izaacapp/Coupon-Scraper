@@ -1,5 +1,4 @@
 
-```markdown
 <a name="readme-top"></a>
 
 <div align="center">
@@ -163,5 +162,5 @@ Izaac Plambeck
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 [python-url]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [selenium-url]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
-```
+
 
