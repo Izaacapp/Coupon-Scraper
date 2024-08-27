@@ -1,0 +1,5 @@
+apprise
+Flask
+python-dotenv
+selenium
+webdriver_manager
