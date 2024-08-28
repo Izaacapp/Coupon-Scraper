@@ -1,8 +1,8 @@
 # Ignore the virtual environment directory
-venv/
+venv
 
 # Ignore GitHub-specific directory and its contents
-.github/
+.github
 
 # Ignore instruction files
 RUNNING_PROJECT.txt
