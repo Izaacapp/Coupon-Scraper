@@ -26,3 +26,5 @@ test*
 
 # Ignore anything not specifically whitelisted
 *~
+
+.DS_Store
