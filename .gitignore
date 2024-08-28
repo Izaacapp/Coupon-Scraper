@@ -1,3 +1,28 @@
-codes.txt
+# Ignore the virtual environment directory
+venv/
+
+# Ignore GitHub-specific directory and its contents
+.github/
+
+# Ignore instruction files
+RUNNING_PROJECT.txt
+README_INSTRUCTIONS.txt
+
+# Ignore environment variable file
 .env
+
+# Ignore cache and compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore custom files
+codes.txt
+
+# Ignore test-related files
 test*
+
+# Ignore anything not specifically whitelisted
+*~
