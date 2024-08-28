@@ -16,7 +16,7 @@
     <img src="scrapping.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">🛒 Wired Coupon Automation Tool 💸</h3>
+  <h3 align="center"> Wired Coupon Automation Tool </h3>
 
   <p align="center">
     Selenium script to retrieve the latest Wired Coupons & Promo Codes for various websites such as Walmart, DoorDash, EBay, & more.
